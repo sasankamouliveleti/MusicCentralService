@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MusicClient_Sasanka</string>
+    <string name="bind_service">Bind Service</string>
+    <string name="unbind_service">Unbind Service</string>
+    <string name="show_all_songs">Show All Songs</string>
+    <string name="song_info">Song Info</string>
+    <string name="choose_the_song_to_play_from_below">Choose the Song to Play</string>
+    <string name="enter_song_id_to_show_info">Enter Song Id to show Info</string>
+</resources>
